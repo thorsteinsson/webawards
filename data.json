@@ -5,7 +5,7 @@
     {
         "headline":"Íslensku vefverðlaunin<br/> 2000 - 2011",
     "startDate":"1999,12,31",
-        "text":"<p>Vinningshafar og vefir í Íslensku vefverðlaununum.</p>",
+        "text":"<p>Vinningshafar í Íslensku vefverðlaununum.</p>",
         "type":"default",
     "asset":
         {
@@ -223,8 +223,237 @@
                     "media":"images/2011-orkusalan.png",
                     "caption":"Orkusalan.is"
                 }
+            },
+            {
+                "startDate":"2009,1,1",
+                "headline":"Hugmyndaraduneytid.is",
+                "text":"<p>Frumlegasti vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2009-hugmyndaraduneytid.png",
+                    "caption":"Hugmyndaraduneytid.is"
+                }
+            },
+            {
+                "startDate":"2010,1,1",
+                "headline":"LegendsOfValhalla.com",
+                "text":"<p>Frumlegasti vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2010-legendsofvalhalla.png",
+                    "caption":"LegendsOfValhalla.com"
+                }
+            },
+            {
+                "startDate":"2010,1,1",
+                "headline":"Datamarket.com",
+                "text":"<p>Athyglisverðasti vefurinn að mati félagsmanna</p>",
+                "asset":
+                {
+                    "media":"images/2010-datamarket.png",
+                    "caption":"Datamarket.com"
+                }
+            },
+            {
+                "startDate":"2000,1,1",
+                "headline":"Postur.is",
+                "text":"<p>Besti (stofnunar- eða) fyrir­tækis­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2000-postur.png",
+                    "caption":"Postur.is"
+                }
+            },
+            {
+                "startDate":"2002,1,1",
+                "headline":"Marel.is",
+                "text":"<p>Besti (stofnunar- eða) fyrir­tækis­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2002-marel.png",
+                    "caption":"Marel.is"
+                }
+            },
+            {
+                "startDate":"2003,1,1",
+                "headline":"Vinbud.is",
+                "text":"<p>Besti (stofnunar- eða) fyrir­tækis­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2003-vinbud.png",
+                    "caption":"Vinbud.is"
+                }
+            },
+            {
+                "startDate":"2004,1,1",
+                "headline":"Landsbanki.is",
+                "text":"<p>Besti (stofnunar- eða) fyrir­tækis­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2004-landsbanki.png",
+                    "caption":"Landsbanki.is"
+                }
+            },
+            {
+                "startDate":"2005,1,1",
+                "headline":"Isb.is",
+                "text":"<p>Besti (stofnunar- eða) fyrir­tækis­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2005-isb.png",
+                    "caption":"Isb.is"
+                }
+            },
+            {
+                "startDate":"2006,1,1",
+                "headline":"Icelandair.is",
+                "text":"<p>Besti (stofnunar- eða) fyrir­tækis­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2006-icelandair.png",
+                    "caption":"Icelandair.is"
+                }
+            },
+            {
+                "startDate":"2007,1,1",
+                "headline":"Glitnir.is",
+                "text":"<p>Besti (stofnunar- eða) fyrir­tækis­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2007-glitnir.png",
+                    "caption":"Glitnir.is"
+                }
+            },
+            {
+                "startDate":"2008,1,1",
+                "headline":"Postur.is",
+                "text":"<p>Besti (stofnunar- eða) fyrir­tækis­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2008-postur.png",
+                    "caption":"Postur.is"
+                }
+            },
+            {
+                "startDate":"2009,1,1",
+                "headline":"Ja.is",
+                "text":"<p>Besti þjónustu- og upplýsingavefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2009-ja.png",
+                    "caption":"Ja.is"
+                }
+            },
+            {
+                "startDate":"2010,1,1",
+                "headline":"Datamarket.com",
+                "text":"<p>Besti þjónustu- og upplýsingavefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2010-Datamarket.png",
+                    "caption":"Datamarket.com"
+                }
+            },
+            {
+                "startDate":"2000,1,1",
+                "headline":"Strik.is",
+                "text":"<p>Besti af­þreyingar­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2000-strik.png",
+                    "caption":"Strik.is"
+                }
+            },
+            {
+                "startDate":"2002,1,1",
+                "headline":"Baggalutur.is",
+                "text":"<p>Besti af­þreyingar­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2002-baggalutur.png",
+                    "caption":"Baggalutur.is"
+                }
+            },
+            {
+                "startDate":"2003,1,1",
+                "headline":"Hugi.is",
+                "text":"<p>Besti af­þreyingar­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2003-hugi.png",
+                    "caption":"Hugi.is"
+                }
+            },
+            {
+                "startDate":"2004,1,1",
+                "headline":"Barnaland.is",
+                "text":"<p>Besti af­þreyingar­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2004-barnaland.png",
+                    "caption":"Barnaland.is"
+                }
+            },
+            {
+                "startDate":"2005,1,1",
+                "headline":"Skjarinn.is",
+                "text":"<p>Besti af­þreyingar­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2005-skjarinn.png",
+                    "caption":"Skjarinn.is"
+                }
+            },
+            {
+                "startDate":"2006,1,1",
+                "headline":"Baggalutur.is",
+                "text":"<p>Besti af­þreyingar­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2006-baggalutur.png",
+                    "caption":"Baggalutur.is"
+                }
+            },
+            {
+                "startDate":"2007,1,1",
+                "headline":"Visir.is",
+                "text":"<p>Besti af­þreyingar­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2007-visir.png",
+                    "caption":"Visir.is"
+                }
+            },
+            {
+                "startDate":"2008,1,1",
+                "headline":"Kvikmyndir.is",
+                "text":"<p>Besti af­þreyingar­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2008-kvikmyndir.png",
+                    "caption":"Kvikmyndir.is"
+                }
+            },
+            {
+                "startDate":"2009,1,1",
+                "headline":"Skjarinn.is",
+                "text":"<p>Besti afþreyingar- og fréttavefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2009-skjarinn.png",
+                    "caption":"Skjarinn.is"
+                }
+            },
+            {
+                "startDate":"2010,1,1",
+                "headline":"Bestulogin.Siminn.is",
+                "text":"<p>Besti afþreyingar- og fréttavefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2010-bestulogin-siminn.png",
+                    "caption":"Bestulogin.Siminn.is"
+                }
             }
-
         ]
     }
 }
