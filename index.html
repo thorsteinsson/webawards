@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="is">
+  <head>
+    <meta charset="utf-8" />
+    <title>Íslensku vefverðlaunin 2000 - 2011</title>
+
+    <!-- CSS -->
+    <link href="http://veritetimeline.appspot.com/latest/timeline.css" rel="stylesheet">
+    <style>
+      html, body {
+        height:100%;
+        padding: 0px;
+        margin: 0px;
+      }
+    </style>
+    <!-- JavaScript -->
+    <script type="text/javascript" src="http://veritetimeline.appspot.com/latest/jquery-min.js"></script>
+    <script type="text/javascript" src="http://veritetimeline.appspot.com/latest/timeline-min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        var timeline = new VMM.Timeline();
+        timeline.init("data.json");
+      });
+    </script>
+  </head>
+  <body>
+      <div id="timeline"></div>
+  </body>
+</html>

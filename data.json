@@ -1,0 +1,129 @@
+
+
+{
+    "timeline":  
+    {
+        "headline":"Íslensku vefverðlaunin<br/> 2000 - 2011",
+    "startDate":"2000",
+        "text":"<p>Vinningshafar og vefir í Íslensku vefverðlaununum.</p>",
+        "type":"default",
+    "asset":
+        {
+            "media":"images/svef.png",
+            "credit":"SVEF",
+            "caption":""
+        },
+    "date": [
+            {
+                "startDate":"2000,1,1",
+                "headline":"Strik.is",
+                "text":"<p>Besti íslenski vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2000-strik.png",
+                    "caption":"Strik.is"
+                }
+            },
+            {
+                "startDate":"2002,1,1",
+                "headline":"Hugi.is",
+                "text":"<p>Besti íslenski vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2002-hugi.png",
+                    "caption":"Hugi.is"
+                }
+            },
+            {
+                "startDate":"2003,1,1",
+                "headline":"Tonlist.is",
+                "text":"<p>Besti íslenski vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2003-tonlist.png",
+                    "caption":"Tonlist.is"
+                }
+            },
+            {
+                "startDate":"2004,1,1",
+                "headline":"Landsbanki.is",
+                "text":"<p>Besti íslenski vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2004-landsbanki.png",
+                    "caption":"Landsbanki.is"
+                }
+            },
+            {
+                "startDate":"2005,1,1",
+                "headline":"Mbl.is",
+                "text":"<p>Besti íslenski vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2005-mbl.png",
+                    "caption":"Mbl.is"
+                }
+            },
+            {
+                "startDate":"2006,1,1",
+                "headline":"Icelandair.is",
+                "text":"<p>Besti íslenski vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2006-icelandair.png",
+                    "caption":"Icelandair.is"
+                }
+            },
+            {
+                "startDate":"2007,1,1",
+                "headline":"Midi.is",
+                "text":"<p>Besti íslenski vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2007-midi.png",
+                    "caption":"Midi.is"
+                }
+            },
+            {
+                "startDate":"2008,1,1",
+                "headline":"Siminn.is",
+                "text":"<p>Besti íslenski vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2008-siminn.png",
+                    "caption":"Siminn.is"
+                }
+            },
+            {
+                "startDate":"2009,1,1",
+                "headline":"Ja.is",
+                "text":"<p>Besti íslenski vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2009-ja.png",
+                    "caption":"Ja.is"
+                }
+            },
+            {
+                "startDate":"2010,1,1",
+                "headline":"Meniga.is",
+                "text":"<p>Besti íslenski vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2010-meniga.png",
+                    "caption":"Meniga.is"
+                }
+            },
+            {
+                "startDate":"2011,1,1",
+                "headline":"Orkusalan.is",
+                "text":"<p>Besti íslenski vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2011-orkusalan.png",
+                    "caption":"Orkusalan.is"
+                }
+            }
+        ]
+    }
+}
