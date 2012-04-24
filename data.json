@@ -225,6 +225,16 @@
                 }
             },
             {
+                "startDate":"2000,1,1",
+                "headline":"Gh.is",
+                "text":"<p>Frumlegasti vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2000-gh.png",
+                    "caption":"Gh.is"
+                }
+            },
+            {
                 "startDate":"2009,1,1",
                 "headline":"Hugmyndaraduneytid.is",
                 "text":"<p>Frumlegasti vefurinn</p>",
@@ -452,6 +462,286 @@
                 {
                     "media":"images/2010-bestulogin-siminn.png",
                     "caption":"Bestulogin.Siminn.is"
+                }
+            },
+            {
+                "startDate":"2002,1,1",
+                "headline":"Frettir.is",
+                "text":"<p>Besti ein­stak­lings­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2002-frettir.png",
+                    "caption":"Frettir.is"
+                }
+            },
+            {
+                "startDate":"2003,1,1",
+                "headline":"Bjorn.is",
+                "text":"<p>Besti ein­stak­lings­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2003-bjorn.png",
+                    "caption":"Bjorn.is"
+                }
+            },
+            {
+                "startDate":"2004,1,1",
+                "headline":"ThorsteinnGudmundsson.is",
+                "text":"<p>Besti ein­stak­lings­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2004-thorsteinngudmundsson.png",
+                    "caption":"ThorsteinnGudmundsson.is"
+                }
+            },
+            {
+                "startDate":"2005,1,1",
+                "headline":"Arni.Hamstur.is",
+                "text":"<p>Besti ein­stak­lings­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2005-arni-hamstur.png",
+                    "caption":"Arni.Hamstur.is"
+                }
+            },
+            {
+                "startDate":"2006,1,1",
+                "headline":"IComeFromReykjavik.com",
+                "text":"<p>Besti ein­stak­lings­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2006-IComeFromReykjavik.png",
+                    "caption":"IComeFromReykjavik.com"
+                }
+            },
+            {
+                "startDate":"2007,1,1",
+                "headline":"Hjarta.net",
+                "text":"<p>Besti ein­stak­lings­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2007-hjarta.png",
+                    "caption":"Hjarta.net"
+                }
+            },
+            {
+                "startDate":"2008,1,1",
+                "headline":"24x24.is",
+                "text":"<p>Besti ein­stak­lings­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2008-24x24.png",
+                    "caption":"24x24.is"
+                }
+            },
+            {
+                "startDate":"2009,1,1",
+                "headline":"GummiSig.is",
+                "text":"<p>Besta blog/efnistök/myndefni</p>",
+                "asset":
+                {
+                    "media":"images/2009-gummisig.png",
+                    "caption":"GummiSig.is"
+                }
+            },
+            {
+                "startDate":"2010,1,1",
+                "headline":"CafeSigrun.com",
+                "text":"<p>Besta blog/efnistök/myndefni</p>",
+                "asset":
+                {
+                    "media":"images/2010-cafesigrun.png",
+                    "caption":"CafeSigrun.com"
+                }
+            },
+            {
+                "startDate":"2000,1,1",
+                "headline":"Bi.is",
+                "text":"<p>Besti fjár­mála­vefur</p>",
+                "asset":
+                {
+                    "media":"images/2000-bi.png",
+                    "caption":"Bi.is"
+                }
+            },
+            {
+                "startDate":"2000,1,1",
+                "headline":"Leit.is",
+                "text":"<p>Besti leitar­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2000-leit.png",
+                    "caption":"Leit.is"
+                }
+            },
+            {
+                "startDate":"2000,1,1",
+                "headline":"Nb.is",
+                "text":"<p>Arð­væn­legasti vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2000-nb.png",
+                    "caption":"Nb.is"
+                }
+            },
+            {
+                "startDate":"2000,1,1",
+                "headline":"Mbl.is",
+                "text":"<p>Besti fjöl­miðla- og upp­lýsinga­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2000-mbl.png",
+                    "caption":"Mbl.is"
+                }
+            },
+            {
+                "startDate":"2006,1,1",
+                "headline":"Midi.is",
+                "text":"<p>Besti (sölu- og) þjónustu­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2006-midi.png",
+                    "caption":"Midi.is"
+                }
+            },
+            {
+                "startDate":"2007,1,1",
+                "headline":"IcelandExpress.is",
+                "text":"<p>Besti (sölu- og) þjónustu­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2007-icelandexpress.png",
+                    "caption":"IcelandExpress.is"
+                }
+            },
+            {
+                "startDate":"2008,1,1",
+                "headline":"IcelandAir.is",
+                "text":"<p>Besti (sölu- og) þjónustu­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2008-icelandair.png",
+                    "caption":"IcelandAir.is"
+                }
+            },
+            {
+                "startDate":"2009,1,1",
+                "headline":"Nikitaclothing.com",
+                "text":"<p>Besti (sölu- og) þjónustu­vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2009-nikitaclothing.png",
+                    "caption":"Nikitaclothing.com"
+                }
+            },
+            {
+                "startDate":"2010,1,1",
+                "headline":"NorthSailing.is",
+                "text":"<p>Besti sölu- og kynningarvefur fyrirtækis með færri en 50 starfsmenn</p>",
+                "asset":
+                {
+                    "media":"images/2010-northsailing.png",
+                    "caption":"NorthSailing.is"
+                }
+            },
+            {
+                "startDate":"2007,1,1",
+                "headline":"Vedur.is",
+                "text":"<p>Besti vefur í almanna­þjónustu</p>",
+                "asset":
+                {
+                    "media":"images/2007-vedur.png",
+                    "caption":"Vedur.is"
+                }
+            },
+            {
+                "startDate":"2008,1,1",
+                "headline":"Akranes.is",
+                "text":"<p>Besti vefur í almanna­þjónustu</p>",
+                "asset":
+                {
+                    "media":"images/2008-akranes.png",
+                    "caption":"Akranes.is"
+                }
+            },
+            {
+                "startDate":"2009,1,1",
+                "headline":"Play.EveOnline.com",
+                "text":"<p>Besti sölu- og kynningarvefur fyrirtækis með yfir 50 starfsmenn</p>",
+                "asset":
+                {
+                    "media":"images/2009-play-eveonline.png",
+                    "caption":"Play.EveOnline.com"
+                }
+            },
+            {
+                "startDate":"2010,1,1",
+                "headline":"Nova.is",
+                "text":"<p>Besti sölu- og kynningarvefur fyrirtækis með yfir 50 starfsmenn</p>",
+                "asset":
+                {
+                    "media":"images/2010-nova.png",
+                    "caption":"Nova.is"
+                }
+            },
+            {
+                "startDate":"2007,1,1",
+                "headline":"HvadErIMatinn.is",
+                "text":"<p>Bjartasta vonin</p>",
+                "asset":
+                {
+                    "media":"images/2007-hvaderimatinn.png",
+                    "caption":"HvadErIMatinn.is"
+                }
+            },
+            {
+                "startDate":"2008,1,1",
+                "headline":"IsafoldTravel.is",
+                "text":"<p>Bjartasta vonin</p>",
+                "asset":
+                {
+                    "media":"images/2008-isafoldtravel.png",
+                    "caption":"IsafoldTravel.is"
+                }
+            },
+            {
+                "startDate":"2009,1,1",
+                "headline":"m.Ja.is",
+                "text":"<p>Besti hand-smátækja vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2009-m-ja.png",
+                    "caption":"m.Ja.is"
+                }
+            },
+            {
+                "startDate":"2010,1,1",
+                "headline":"L.is",
+                "text":"<p>Besti hand-smátækja vefurinn</p>",
+                "asset":
+                {
+                    "media":"images/2010-l.png",
+                    "caption":"L.is"
+                }
+            },
+            {
+                "startDate":"2009,1,1",
+                "headline":"Landsbankinn: Náman",
+                "text":"<p>Besta markaðsherferðin á netinu</p>",
+                "asset":
+                {
+                    "media":"images/2009-landsbankinn-naman.png",
+                    "caption":"Landsbankinn: Náman"
+                }
+            },
+            {
+                "startDate":"2010,1,1",
+                "headline":"IcelandWantsToBeYourFriend.com",
+                "text":"<p>Besta markaðsherferðin á netinu</p>",
+                "asset":
+                {
+                    "media":"images/2010-icelandwantstobeyourfriend.png",
+                    "caption":"IcelandWantsToBeYourFriend.com"
                 }
             }
         ]
